@@ -36,4 +36,16 @@ One of my first projects was a meme bot! Except i wasn't very ‘good’ at meme
 
 Please I need some programming friends! I am super social! 
 
+
+<span>
+  <a href="https://github.com/61x6ex6fx6ex79x6dx6fx75x73">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=61x6ex6fx6ex79x6dx6fx75x73&layout=compact" width="350" height="195" />
+  </a>
+  
+  <a href="https://github.com/61x6ex6fx6ex79x6dx6fx75x73">
+    <img src="https://github-readme-stats.vercel.app/api?username=61x6ex6fx6ex79x6dx6fx75x73&count_private=true" width="350" height="195" />
+  </a>
+  
+</span>
+
 ![nya](https://cdn.discordapp.com/emojis/792370912351223818.png?v=1)
