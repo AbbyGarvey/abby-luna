@@ -12,20 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About me, i guess
+## Abby Luna Garvey
 
-Hey im abby, i enjoy working in mostly c++, nodejs and python. I like competive programing, although im a little terrible under pressure. I enjoy the social aspect of programming, i work super well in a team
+## Introduction to me!
+Hey im abby luna! she/her. I'm a 16 year old programmer who has worked on several nice projects! My and my schools vex robotics team have won a total of three awards for our school in robotics, we were the national champions in 2019, and this year we won the regionals and the excellence award (the highest possible award at vex) I developed a program called "copycat" witch copied the controllers actions by measuring the velocity of each motor at a specific time and calculate the time it took the cpu to complete the previous actions, i worked in c++ as the language they recommend was .... bad .....
+In addition to this i ran some solo projects! Such as my software only iris tracker using a kmeans clustering algorithm and some thresholding, which I received two awards in the bt young scientist for!
+I scored a perfect score in the aipo preliminary rounds, although on the day my network screwed me up and I came 20th!
+Next year I plan to push myself harder then ever before!
+My bt young scientist project will be using convolutional neural networks and supercomputing to find people lost at sea, revolutionizing SAROPS form 2007
+## Copycat!
 
-### Vex Robotics
+I super liked developing copycat, it allowed me to solve a solution by thinking outside of the box, I noticed the other robots were all programmed … robotically ... the other teams spent months perfecting each turn, making sure it was 90 degrees, developing algorithms for perfect turns, i did this in 2019 and if i'm honest the work was boring and tedious, so i developed copycat! Instead of getting each turn perfectly 90 degrees and reusing that function throughout, I simply played with the robot on the field and got it to save a timestamp and mother velocity to a file, and then I read from that file. It worked perfectly every time and now more worrying about turning algorithms or rotation logic 
 
-I developed a uniqe program called "Copycat" that mesusred the controlers actions and saved them to a file, version 1 had some issues, for example i assumed the time bettween controller actions was always 10 milliseconds, in version 2 nicknamed "purrfect copycat" i fixed this issue by messuring the cpu time between controller actions.
+## BT-Young-Scientist 2019 - Iris tracker
 
-In 2018 we won the national champions, in 2019 we won the regional champions and the excelence award (highest possible award at vex)
+I noticed an issue, people with disabilities can often not afford a hardware iris tracker to control their pc’s. So using the webcam of any laptop easily separated eyes and face using opencv, then i thresholded the eye and placed an opencv counter over it to get the position of the iris, then i recorded the position of the iris in several useful cases and fitted them into a kmeans algorithm. Now we had the ability to zoom into any corner of the screen using our irises, I repeated this several times until I was ‘close enough’ to the point to accurately click. Then it would repeat! I got two awards from the judges, the design award and the highly commended award (the best in my schools history) 
 
-### Bt young scientist
+## Meme bot (sorry lol)
 
-In 2018 i made a iris tracker that had the ability to controll a laptop to aid people with disabilities, i used a kmeans clustering algoritm to accuratly predict which corner of the screen the user was looking at and zooomed until  the machine could make an accurate click on a spefic area
+One of my first projects was a meme bot! Except i wasn't very ‘good’ at memes, so it basically used selenium to steal some ancient memes off imgur and then posted them to a discord server. 
 
-For this i won a design award and a highly commended award
+## Social Programming! 
+
+Please I need some programming friends! I am super social! 
 
 ![nya](https://cdn.discordapp.com/emojis/792370912351223818.png?v=1)
