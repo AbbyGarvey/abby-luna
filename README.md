@@ -19,7 +19,7 @@ Hey im abby luna! she/her. I'm a 16 year old programmer who has worked on severa
 In addition to this i ran some solo projects! Such as my software only iris tracker using a kmeans clustering algorithm and some thresholding, which I received two awards in the bt young scientist for!
 I scored a perfect score in the aipo preliminary rounds, although on the day my network screwed me up and I came 20th!
 Next year I plan to push myself harder then ever before!
-My bt young scientist project will be using convolutional neural networks and supercomputing to find people lost at sea, revolutionizing SAROPS form 2007
+
 ## Copycat!
 
 I super liked developing copycat, it allowed me to solve a solution by thinking outside of the box, I noticed the other robots were all programmed … robotically ... the other teams spent months perfecting each turn, making sure it was 90 degrees, developing algorithms for perfect turns, i did this in 2019 and if i'm honest the work was boring and tedious, so i developed copycat! Instead of getting each turn perfectly 90 degrees and reusing that function throughout, I simply played with the robot on the field and got it to save a timestamp and mother velocity to a file, and then I read from that file. It worked perfectly every time and now more worrying about turning algorithms or rotation logic 
