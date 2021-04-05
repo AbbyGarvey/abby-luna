@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Abby!
 
 ## Introduction to me!
-Hey im abby luna! she/her. I'm a 16 year old programmer who has worked on several nice projects! My and my schools vex robotics team have won a total of three awards for our school in robotics, we were the national champions in 2019, and this year we won the regionals and the excellence award (the highest possible award at vex) I developed a program called "copycat" witch copied the controllers actions by measuring the velocity of each motor at a specific time and calculate the time it took the cpu to complete the previous actions, i worked in c++ as the language they recommend was .... bad .....
+Hey im abby luna! she/her. I'm a 17 year old programmer who has worked on several nice projects! My and my schools vex robotics team have won a total of three awards for our school in robotics, we were the national champions in 2019, and this year we won the regionals and the excellence award (the highest possible award at vex) I developed a program called "copycat" witch copied the controllers actions by measuring the velocity of each motor at a specific time and calculate the time it took the cpu to complete the previous actions, i worked in c++ as the language they recommend was .... bad .....
 In addition to this i ran some solo projects! Such as my software only iris tracker using a kmeans clustering algorithm and some thresholding, which I received two awards in the bt young scientist for!
 I scored a perfect score in the aipo preliminary rounds, although on the day my network screwed me up and I came 20th!
 Next year I plan to push myself harder then ever before!
