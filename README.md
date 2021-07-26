@@ -24,7 +24,7 @@ Next year I plan to push myself harder then ever before!
 
 I super liked developing copycat, it allowed me to solve a solution by thinking outside of the box, I noticed the other robots were all programmed … robotically ... the other teams spent months perfecting each turn, making sure it was 90 degrees, developing algorithms for perfect turns, i did this in 2019 and if i'm honest the work was boring and tedious, so i developed copycat! Instead of getting each turn perfectly 90 degrees and reusing that function throughout, I simply played with the robot on the field and got it to save a timestamp and mother velocity to a file, and then I read from that file. It worked perfectly every time and now more worrying about turning algorithms or rotation logic 
 
-## BT-Young-Scientist 2019 - Iris tracker
+## BT-Young-Scientist 2020 - Iris tracker
 
 I noticed an issue, people with disabilities can often not afford a hardware iris tracker to control their pc’s. So using the webcam of any laptop easily separated eyes and face using opencv, then i thresholded the eye and placed an opencv counter over it to get the position of the iris, then i recorded the position of the iris in several useful cases and fitted them into a kmeans algorithm. Now we had the ability to zoom into any corner of the screen using our irises, I repeated this several times until I was ‘close enough’ to the point to accurately click. Then it would repeat! I got two awards from the judges, the design award and the highly commended award (the best in my schools history) 
 
