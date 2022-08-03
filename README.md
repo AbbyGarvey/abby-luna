@@ -35,4 +35,3 @@ Please I need some programming friends! I am super social!
   </a>
 </span>
 
-![nya](https://cdn.discordapp.com/emojis/792370912351223818.png?v=1)
