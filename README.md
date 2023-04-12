@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Abby!
 
 ## Introduction to me!
-Heya im abby! I'm a ~~almost 18~~ year old programmer who has worked on a wide range of projects! In my school I am an active member of the robotics team. I also competed in compitions like btyste, aipo and egoi! 
+Heya im abby! I'm a programmer who has worked on a wide range of projects! In my school I am an active member of the robotics team. I also competed in compitions like btyste, aipo and egoi! 
 
 ## Robotics!
 In school, I enjoy working closly with the robotics team, developing invitative solutions to common problems. I found that finding a test enviroment for these bots was difficult, as the competitions arena would often have very differnt material than the floors in our school. The first year we competed we solved this issue by using ratios to predict how much extra power we needed to put into each moter to get the desired result. This solution _worked,_ but we believed we could do it better. After several hours of putting our heads together we came up with an idea titled "copycat". Copycat was an out of the box idea, where we would copy the power values of each moter to a file, and be able to _reload_ these for later use. This essentially automated our automonus section, and allowed us to max out the points in it every time. That year we won the nationals
