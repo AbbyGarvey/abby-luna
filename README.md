@@ -31,7 +31,9 @@ Please I need some programming friends! I am super social!
 
 <span>
   <a href="https://github.com/abby-luna">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abby-luna&layout=compact" width="350" height="195" />
+    <img style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abby-luna&layout=compact" width="350" height="195" />
+    <img style="display: inline;" src="https://github-readme-stats.vercel.app/api?username=abby-luna" width="350" height="195" />
+    
   </a>
 </span>
 
