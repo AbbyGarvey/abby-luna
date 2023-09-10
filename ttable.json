@@ -1,0 +1,166 @@
+{
+  "timetable": [
+    {
+      "day": "Mon",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "subject": "Data Design and Programming",
+      "type": "Lab Lecture",
+      "room": "8A106",
+      "teacher": "Gerry Guinane"
+    },
+    {
+      "day": "Mon",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "subject": "Discrete Mathematics",
+      "type": "Lecture",
+      "room": "3B05",
+      "teacher": "Oliver Hyde"
+    },
+    {
+      "day": "Mon",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "subject": "Discrete Mathematics",
+      "type": "Lecture",
+      "room": "3B05",
+      "teacher": "Oliver Hyde"
+    },
+    {
+      "day": "Tue",
+      "startTime": "9:00",
+      "endTime": "11:00",
+      "subject": "Object Oriented Theory and Programming",
+      "type": "Lab Lecture",
+      "room": "8A106",
+      "teacher": "Elizabeth Bourke"
+    },
+    {
+      "day": "Tue",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "subject": "Discrete Mathematics",
+      "type": "Tutorial",
+      "room": "8A505",
+      "teacher": "Oliver Hyde"
+    },
+    {
+      "day": "Tue",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "subject": "Fundamentals of Data Structures and Algorithms",
+      "type": "Lecture",
+      "room": "3B05",
+      "teacher": "Sharon Byrne"
+    },
+    {
+      "day": "Tue",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "subject": "Fundamentals of Data Structures and Algorithms",
+      "type": "Lecture",
+      "room": "3B05",
+      "teacher": "Sharon Byrne"
+    },
+    {
+      "day": "Wed",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "subject": "Software Development",
+      "type": "Lecture",
+      "room": "3A03",
+      "teacher": "Brendan Watson"
+    },
+    {
+      "day": "Wed",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "subject": "Software Development",
+      "type": "Lecture",
+      "room": "3A03",
+      "teacher": "Brendan Watson"
+    },
+    {
+      "day": "Wed",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "subject": "Networking Fundamentals",
+      "type": "Lecture",
+      "room": "3B05",
+      "teacher": "Mark Curtin"
+    },
+    {
+      "day": "Wed",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "subject": "Object Oriented Theory and Programming",
+      "type": "Practical",
+      "room": "8A103",
+      "teacher": "Suzanne O'Gorman"
+    },
+    {
+      "day": "Wed",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "subject": "Data Design and Programming",
+      "type": "Lab Lecture",
+      "room": "8A106",
+      "teacher": "Gerry Guinane"
+    },
+    {
+      "day": "Thu",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "subject": "Networking Fundamentals",
+      "type": "Lab Lecture",
+      "room": "8A103",
+      "teacher": "Mark Curtin"
+    },
+    {
+      "day": "Thu",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "subject": "Discrete Mathematics",
+      "type": "Practical",
+      "room": "1A16",
+      "teacher": "Oliver Hyde"
+    },
+    {
+      "day": "Thu",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "subject": "Fundamentals of Data Structures and Algorithms",
+      "type": "Practical",
+      "room": "1A16",
+      "teacher": "Sharon Byrne"
+    },
+    {
+      "day": "Fri",
+      "startTime": "9:00",
+      "endTime": "10:00",
+      "subject": "Software Development",
+      "type": "Lab Lecture",
+      "room": "8A106",
+      "teacher": "Brendan Watson"
+    },
+    {
+      "day": "Fri",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "subject": "Software Development",
+      "type": "Practical",
+      "room": "8A106",
+      "teacher": "Brendan Watson"
+    },
+    {
+      "day": "Fri",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "subject": "Networking Fundamentals",
+      "type": "Practical",
+      "room": "8A103",
+      "teacher": "Mark Curtin"
+    }
+  ]
+}
