@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 -->
 ## Abby!
 
-## Introduction to me!
+## Introduction to me
 Heya im abby! I'm a programmer who has worked on a wide range of projects! In my school I am an active member of the robotics team. I also competed in compitions like btyste, aipo and egoi! 
 
-## Robotics!
+## Robotics
 In school, I enjoy working closly with the robotics team, developing invitative solutions to common problems. I found that finding a test enviroment for these bots was difficult, as the competitions arena would often have very differnt material than the floors in our school. The first year we competed we solved this issue by using ratios to predict how much extra power we needed to put into each moter to get the desired result. This solution _worked,_ but we believed we could do it better. After several hours of putting our heads together we came up with an idea titled "copycat". Copycat was an out of the box idea, where we would copy the power values of each moter to a file, and be able to _reload_ these for later use. This essentially automated our automonus section, and allowed us to max out the points in it every time. That year we won the nationals
 
 ## BT-Young-Scientist 2020 - Iris tracker
 
 I noticed an issue, people with disabilities can often not afford a hardware iris tracker to control their pc’s. So using the webcam of any laptop easily separated eyes and face using opencv, then i thresholded the eye and placed an opencv counter over it to get the position of the iris, then i recorded the position of the iris in several useful cases and fitted them into a kmeans algorithm. Now we had the ability to zoom into any corner of the screen using our irises, I repeated this several times until I was ‘close enough’ to the point to accurately click. Then it would repeat! I got two awards from the judges, the design award and the highly commended award 
 
-## Social Programming! 
+## Competitive Programming
 
-Please I need some programming friends! I am super social! 
+Ever since a very young age I always had a passion for solving problems. Which lead me to take part in compititions like AIPO and EGOI
 
 
 <span>
