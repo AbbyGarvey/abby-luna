@@ -20,15 +20,6 @@
     },
     {
       "day": "Mon",
-      "startTime": "23:00",
-      "endTime": "23:59",
-      "subject": "Debug Subject",
-      "type": "Lecture",
-      "room": "3B05",
-      "teacher": "Oliver Hyde"
-    },
-    {
-      "day": "Mon",
       "startTime": "15:00",
       "endTime": "16:00",
       "subject": "Discrete Mathematics",
