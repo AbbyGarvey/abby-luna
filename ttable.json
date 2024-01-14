@@ -4,70 +4,52 @@
       "day": "Mon",
       "startTime": "11:00",
       "endTime": "13:00",
-      "subject": "Data Design and Programming",
+      "subject": "Data Driven Systems",
       "type": "Lab Lecture",
       "room": "8A106",
       "teacher": "Gerry Guinane"
     },
     {
       "day": "Mon",
-      "startTime": "14:00",
-      "endTime": "15:00",
-      "subject": "Discrete Mathematics",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "subject": "Real Time Embedded Systems",
       "type": "Lecture",
-      "room": "3B05",
-      "teacher": "Oliver Hyde"
+      "room": "3A05",
+      "teacher": "William Ward"
     },
     {
       "day": "Mon",
-      "startTime": "15:00",
-      "endTime": "16:00",
-      "subject": "Discrete Mathematics",
-      "type": "Lecture",
-      "room": "3B05",
-      "teacher": "Oliver Hyde"
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "subject": "Applications Development",
+      "type": "Practical",
+      "room": "8A106",
+      "teacher": "Elizabeth Bourke"
     },
     {
       "day": "Tue",
       "startTime": "9:00",
       "endTime": "11:00",
-      "subject": "Object Oriented Theory and Programming",
+      "subject": "Applications Development",
       "type": "Lab Lecture",
       "room": "8A106",
       "teacher": "Elizabeth Bourke"
     },
     {
       "day": "Tue",
-      "startTime": "11:00",
-      "endTime": "12:00",
-      "subject": "Discrete Mathematics",
-      "type": "Tutorial",
-      "room": "8A501",
-      "teacher": "Oliver Hyde"
-    },
-    {
-      "day": "Tue",
       "startTime": "14:00",
       "endTime": "15:00",
-      "subject": "Fundamentals of Data Structures and Algorithms",
+      "subject": "Problem-Solving with Data Structures and Algorithms",
       "type": "Lecture",
       "room": "3B05",
-      "teacher": "Sharon Byrne"
-    },
-    {
-      "day": "Tue",
-      "startTime": "15:00",
-      "endTime": "16:00",
-      "subject": "Fundamentals of Data Structures and Algorithms",
-      "type": "Lecture",
-      "room": "3B05",
-      "teacher": "Sharon Byrne"
+      "teacher": "Suzanne O'Gorman"
     },
     {
       "day": "Wed",
       "startTime": "9:00",
       "endTime": "10:00",
-      "subject": "Software Development",
+      "subject": "Software Testing",
       "type": "Lecture",
       "room": "3A03",
       "teacher": "Brendan Watson"
@@ -76,7 +58,7 @@
       "day": "Wed",
       "startTime": "10:00",
       "endTime": "11:00",
-      "subject": "Software Development",
+      "subject": "Software Testing",
       "type": "Lecture",
       "room": "3A03",
       "teacher": "Brendan Watson"
@@ -85,16 +67,16 @@
       "day": "Wed",
       "startTime": "12:00",
       "endTime": "13:00",
-      "subject": "Networking Fundamentals",
+      "subject": "Problem-Solving with Data Structures and Algorithms",
       "type": "Lecture",
       "room": "3B05",
-      "teacher": "Mark Curtin"
+      "teacher": "Suzanne O'Gorman"
     },
     {
       "day": "Wed",
       "startTime": "14:00",
       "endTime": "16:00",
-      "subject": "Object Oriented Theory and Programming",
+      "subject": "Problem-Solving with Data Structures and Algorithms",
       "type": "Practical",
       "room": "8A103",
       "teacher": "Suzanne O'Gorman"
@@ -103,43 +85,34 @@
       "day": "Wed",
       "startTime": "16:00",
       "endTime": "18:00",
-      "subject": "Data Design and Programming",
+      "subject": "Data Driven Systems",
       "type": "Lab Lecture",
       "room": "8A106",
       "teacher": "Gerry Guinane"
     },
     {
       "day": "Thu",
-      "startTime": "9:00",
-      "endTime": "10:00",
-      "subject": "Networking Fundamentals",
-      "type": "Lab Lecture",
-      "room": "8A103",
-      "teacher": "Mark Curtin"
-    },
-    {
-      "day": "Thu",
       "startTime": "10:00",
       "endTime": "11:00",
-      "subject": "Discrete Mathematics",
+      "subject": "Real Time Embedded Systems",
       "type": "Practical",
       "room": "1A16",
-      "teacher": "Oliver Hyde"
+      "teacher": "William Ward"
     },
     {
       "day": "Thu",
       "startTime": "11:00",
       "endTime": "13:00",
-      "subject": "Fundamentals of Data Structures and Algorithms",
-      "type": "Practical",
+      "subject": "Public Cloud Foundations",
+      "type": "Lab Lecture",
       "room": "1A16",
-      "teacher": "Sharon Byrne"
+      "teacher": "Mark Curtin"
     },
     {
       "day": "Fri",
       "startTime": "9:00",
       "endTime": "10:00",
-      "subject": "Software Development",
+      "subject": "Software Testing",
       "type": "Lab Lecture",
       "room": "8A106",
       "teacher": "Brendan Watson"
@@ -148,7 +121,7 @@
       "day": "Fri",
       "startTime": "10:00",
       "endTime": "11:00",
-      "subject": "Software Development",
+      "subject": "Software Testing",
       "type": "Practical",
       "room": "8A106",
       "teacher": "Brendan Watson"
@@ -157,10 +130,19 @@
       "day": "Fri",
       "startTime": "11:00",
       "endTime": "13:00",
-      "subject": "Networking Fundamentals",
+      "subject": "Public Cloud Foundations",
       "type": "Practical",
       "room": "8A103",
       "teacher": "Mark Curtin"
+    },
+    {
+      "day": "Fri",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "subject": "Real Time Embedded Systems",
+      "type": "Practical",
+      "room": "1A16",
+      "teacher": "William Ward"
     }
   ]
 }
