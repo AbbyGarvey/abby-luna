@@ -11,6 +11,15 @@
     },
     {
       "day": "Mon",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "subject": "Your mom",
+      "type": "Lab Lecture",
+      "room": "8A106",
+      "teacher": "Gerry Guinane"
+    },
+    {
+      "day": "Mon",
       "startTime": "13:00",
       "endTime": "14:00",
       "subject": "Real Time Embedded Systems",
