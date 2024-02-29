@@ -38,6 +38,15 @@
     },
     {
       "day": "Tue",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "subject": "Real Time Embedded Systems",
+      "type": "Practical",
+      "room": "1A16",
+      "teacher": "William Ward"
+    },
+    {
+      "day": "Tue",
       "startTime": "14:00",
       "endTime": "15:00",
       "subject": "Problem-Solving with Data Structures and Algorithms",
@@ -134,15 +143,6 @@
       "type": "Practical",
       "room": "8A103",
       "teacher": "Mark Curtin"
-    },
-    {
-      "day": "Tue",
-      "startTime": "12:00",
-      "endTime": "14:00",
-      "subject": "Real Time Embedded Systems",
-      "type": "Practical",
-      "room": "1A16",
-      "teacher": "William Ward"
     }
   ]
 }
