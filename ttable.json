@@ -136,9 +136,9 @@
       "teacher": "Mark Curtin"
     },
     {
-      "day": "Fri",
-      "startTime": "14:00",
-      "endTime": "16:00",
+      "day": "Tue",
+      "startTime": "12:00",
+      "endTime": "14:00",
       "subject": "Real Time Embedded Systems",
       "type": "Practical",
       "room": "1A16",
