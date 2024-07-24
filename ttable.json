@@ -10,7 +10,16 @@
       "teacher": "Gerry Guinane",
       "color":"#3259a8"
     },
-
+    {
+      "day": "Mon",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "subject": "Real Time Embedded Systems",
+      "type": "Lecture",
+      "room": "3A05",
+      "teacher": "William Ward",
+      "color":"#a8324e"
+    },
     {
       "day": "Mon",
       "startTime": "16:00",
