@@ -7,7 +7,8 @@
       "subject": "Data Driven Systems",
       "type": "Lab Lecture",
       "room": "8A106",
-      "teacher": "Gerry Guinane"
+      "teacher": "Gerry Guinane",
+      "color":"3259a8"
     },
     {
       "day": "Mon",
@@ -16,7 +17,8 @@
       "subject": "Real Time Embedded Systems",
       "type": "Lecture",
       "room": "3A05",
-      "teacher": "William Ward"
+      "teacher": "William Ward",
+      "color":"3259a8"
     },
     {
       "day": "Mon",
@@ -25,7 +27,8 @@
       "subject": "Applications Development",
       "type": "Practical",
       "room": "8A106",
-      "teacher": "Elizabeth Bourke"
+      "teacher": "Elizabeth Bourke",
+      "color":"3259a8"
     },
     {
       "day": "Tue",
@@ -34,7 +37,8 @@
       "subject": "Applications Development",
       "type": "Lab Lecture",
       "room": "8A106",
-      "teacher": "Elizabeth Bourke"
+      "teacher": "Elizabeth Bourke",
+      "color":"3259a8"
     },
     {
       "day": "Tue",
@@ -43,7 +47,8 @@
       "subject": "Real Time Embedded Systems",
       "type": "Practical",
       "room": "1B20",
-      "teacher": "William Ward"
+      "teacher": "William Ward",
+      "color":"3259a8"
     },
     {
       "day": "Tue",
@@ -52,7 +57,8 @@
       "subject": "Problem-Solving with Data Structures and Algorithms",
       "type": "Lecture",
       "room": "3B05",
-      "teacher": "Suzanne O'Gorman"
+      "teacher": "Suzanne O'Gorman",
+      "color":"3259a8"
     },
     {
       "day": "Wed",
@@ -61,7 +67,8 @@
       "subject": "Software Testing",
       "type": "Lecture",
       "room": "3A03",
-      "teacher": "Brendan Watson"
+      "teacher": "Brendan Watson",
+      "color":"3259a8"
     },
     {
       "day": "Wed",
@@ -70,7 +77,8 @@
       "subject": "Software Testing",
       "type": "Lecture",
       "room": "3A03",
-      "teacher": "Brendan Watson"
+      "teacher": "Brendan Watson",
+      "color":"3259a8"
     },
     {
       "day": "Wed",
@@ -79,7 +87,8 @@
       "subject": "Problem-Solving with Data Structures and Algorithms",
       "type": "Lecture",
       "room": "3B05",
-      "teacher": "Suzanne O'Gorman"
+      "teacher": "Suzanne O'Gorman",
+      "color":"3259a8"
     },
     {
       "day": "Wed",
@@ -88,7 +97,8 @@
       "subject": "Problem-Solving with Data Structures and Algorithms",
       "type": "Practical",
       "room": "8A103",
-      "teacher": "Suzanne O'Gorman"
+      "teacher": "Suzanne O'Gorman",
+      "color":"3259a8"
     },
     {
       "day": "Wed",
@@ -97,7 +107,8 @@
       "subject": "Data Driven Systems",
       "type": "Lab Lecture",
       "room": "8A106",
-      "teacher": "Gerry Guinane"
+      "teacher": "Gerry Guinane",
+      "color":"3259a8"
     },
     {
       "day": "Thu",
@@ -106,7 +117,8 @@
       "subject": "Real Time Embedded Systems",
       "type": "Practical",
       "room": "1A16",
-      "teacher": "William Ward"
+      "teacher": "William Ward",
+      "color":"3259a8"
     },
     {
       "day": "Thu",
@@ -115,7 +127,8 @@
       "subject": "Public Cloud Foundations",
       "type": "Lab Lecture",
       "room": "1A16",
-      "teacher": "Mark Curtin"
+      "teacher": "Mark Curtin",
+      "color":"3259a8"
     },
     {
       "day": "Fri",
@@ -124,7 +137,8 @@
       "subject": "Software Testing",
       "type": "Lab Lecture",
       "room": "8A106",
-      "teacher": "Brendan Watson"
+      "teacher": "Brendan Watson",
+      "color":"3259a8"
     },
     {
       "day": "Fri",
@@ -133,7 +147,8 @@
       "subject": "Software Testing",
       "type": "Practical",
       "room": "8A106",
-      "teacher": "Brendan Watson"
+      "teacher": "Brendan Watson",
+      "color":"3259a8"
     },
     {
       "day": "Fri",
@@ -142,7 +157,8 @@
       "subject": "Public Cloud Foundations",
       "type": "Practical",
       "room": "8A103",
-      "teacher": "Mark Curtin"
+      "teacher": "Mark Curtin",
+      "color":"3259a8"
     }
   ]
 }
