@@ -18,7 +18,7 @@
       "type": "Lecture",
       "room": "3A05",
       "teacher": "William Ward",
-      "color":"#3259a8"
+      "color":"#a8324e"
     },
     {
       "day": "Mon",
@@ -48,7 +48,7 @@
       "type": "Practical",
       "room": "1B20",
       "teacher": "William Ward",
-      "color":"#3259a8"
+      "color":"#a8324e"
     },
     {
       "day": "Tue",
@@ -118,7 +118,7 @@
       "type": "Practical",
       "room": "1A16",
       "teacher": "William Ward",
-      "color":"#3259a8"
+      "color":"#a8324e"
     },
     {
       "day": "Thu",
