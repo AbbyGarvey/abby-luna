@@ -6,9 +6,19 @@
       "endTime": "12:00",
       "subject": "Object Modelling and Design",
       "type": "Lecture",
-      "room": "03A05, 03B01",
+      "room": "3A05, 3B01",
       "teacher": "Brendan Watson",
       "color": "#3259a8"
+    },
+    {
+      "day": "Mon",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "subject": "Sd3 - Software Development Group Project (1Hr)",
+      "type": "Lab Lecture",
+      "room": "8A103",
+      "teacher": "William Ward",
+      "color": "#a8324e"
     },
     {
       "day": "Mon",
@@ -16,9 +26,9 @@
       "endTime": "16:00",
       "subject": "Applications Programming",
       "type": "Lab Lecture",
-      "room": "08A106",
+      "room": "8A106",
       "teacher": "Alan Ryan",
-      "color": "#a8324e"
+      "color": "#7b8217"
     },
     {
       "day": "Mon",
@@ -26,39 +36,19 @@
       "endTime": "18:00",
       "subject": "Secure Web App Development",
       "type": "Lab Lecture",
-      "room": "01A15",
+      "room": "1A15",
       "teacher": "Sharon Byrne",
-      "color": "#7b8217"
+      "color": "#228217"
     },
     {
       "day": "Tue",
       "startTime": "9:00",
       "endTime": "11:00",
-      "subject": "Secure Web App Development",
+      "subject": "Object Modelling and Design",
       "type": "Practical",
       "room": "15B26",
-      "teacher": "Sharon Byrne",
-      "color": "#7b8217"
-    },
-    {
-      "day": "Tue",
-      "startTime": "13:00",
-      "endTime": "14:00",
-      "subject": "Sd3 - Software Development Group Project (1Hr)",
-      "type": "Lab Lecture",
-      "room": "08A103",
-      "teacher": "Seamus Doyle",
-      "color": "#228217"
-    },
-    {
-      "day": "Tue",
-      "startTime": "14:00",
-      "endTime": "16:00",
-      "subject": "Computer Science",
-      "type": "Lab Lecture",
-      "room": "m_01B02",
-      "teacher": "James Fennell",
-      "color": "#910080"
+      "teacher": "Brendan Watson",
+      "color": "#3259a8"
     },
     {
       "day": "Wed",
@@ -66,9 +56,9 @@
       "endTime": "11:00",
       "subject": "Applications Programming",
       "type": "Practical",
-      "room": "08A106",
+      "room": "8A106",
       "teacher": "Alan Ryan",
-      "color": "#a8324e"
+      "color": "#7b8217"
     },
     {
       "day": "Wed",
@@ -76,9 +66,9 @@
       "endTime": "14:00",
       "subject": "Applications Programming",
       "type": "Lecture",
-      "room": "05C01",
+      "room": "5C01",
       "teacher": "Alan Ryan",
-      "color": "#a8324e"
+      "color": "#7b8217"
     },
     {
       "day": "Wed",
@@ -86,7 +76,7 @@
       "endTime": "16:00",
       "subject": "Computer Science",
       "type": "Practical",
-      "room": "01A17",
+      "room": "1A17",
       "teacher": "James Fennell",
       "color": "#910080"
     },
@@ -96,9 +86,9 @@
       "endTime": "18:00",
       "subject": "Sd3 - Software Development Group Project (1Hr)",
       "type": "Lab Lecture",
-      "room": "08A106",
+      "room": "8A106",
       "teacher": "Mike Connolly",
-      "color": "#228217"
+      "color": "#a8324e"
     },
     {
       "day": "Thu",
@@ -106,19 +96,19 @@
       "endTime": "12:00",
       "subject": "Sd3 - Software Development Group Project (1Hr)",
       "type": "Lab Lecture",
-      "room": "08A106",
+      "room": "8A106",
       "teacher": "William Ward",
-      "color": "#228217"
+      "color": "#a8324e"
     },
     {
       "day": "Thu",
       "startTime": "13:00",
       "endTime": "15:00",
-      "subject": "Object Modelling and Design",
-      "type": "Practical",
-      "room": "08A106",
-      "teacher": "Brendan Watson",
-      "color": "#3259a8"
+      "subject": "Computer Science",
+      "type": "Lab Lecture",
+      "room": "8A106",
+      "teacher": "James Fennell",
+      "color": "#910080"
     },
     {
       "day": "Thu",
@@ -126,7 +116,7 @@
       "endTime": "16:00",
       "subject": "Object Modelling and Design",
       "type": "Lecture",
-      "room": "03B01",
+      "room": "3B01",
       "teacher": "Brendan Watson",
       "color": "#3259a8"
     },
@@ -136,9 +126,19 @@
       "endTime": "17:00",
       "subject": "Object Modelling and Design",
       "type": "Lecture",
-      "room": "03B01",
+      "room": "3B01",
       "teacher": "Brendan Watson",
       "color": "#3259a8"
+    },
+    {
+      "day": "Fri",
+      "startTime": "9:00",
+      "endTime": "11:00",
+      "subject": "Secure Web App Development",
+      "type": "Practical",
+      "room": "1B20",
+      "teacher": "Sharon Byrne",
+      "color": "#228217"
     }
   ]
 }
